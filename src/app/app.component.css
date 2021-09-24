@@ -1,0 +1,17 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+.nav-link {
+    color: white;
+}
+
+.sidebar i {
+ padding-right: 0.25em;
+}
+
+.sidebar .nav-link {
+    padding-bottom: 1.0em;
+}
+
+.sidebar .nav-link:hover {
+    background-color: gray;
+}
